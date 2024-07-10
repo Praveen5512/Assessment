@@ -1,0 +1,28 @@
+body{
+    overflow-x: hidden;
+    background-color: gray;
+}
+.card{
+    border: none;
+}
+.items{
+    width: fit-content;
+    padding: 20px;
+}
+.cardSize{
+    height: 200px ;
+}
+.inputTags{
+    margin-left: 60px;
+   width: 200px;
+}
+#header{
+    background-color: brown;
+    color: white;
+    padding: 20px 0px;
+    position:sticky;
+    display: block;
+}
+.classItems>img{
+    border: solid 1px black;
+}
